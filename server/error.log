@@ -1,0 +1,60 @@
+[31m[1m14:38:59.61 <error> TypeError: Cannot read property 'populate' of null[22m[39m
+[31m[1m    at getCreditCardById (E:\privacy-project\credit-card\server\controllers\credit-card.js:13:18)[22m[39m
+[31m[1m    at <anonymous>[22m[39m
+[31m[1m    at process._tickCallback (internal/process/next_tick.js:188:7) (in error-handler.js:26)[22m[39m
+[31m[1m14:43:22.98 <error> TypeError: Cannot read property 'populate' of null[22m[39m
+[31m[1m    at getCreditCardById (E:\privacy-project\credit-card\server\controllers\credit-card.js:13:18)[22m[39m
+[31m[1m    at <anonymous>[22m[39m
+[31m[1m    at process._tickCallback (internal/process/next_tick.js:188:7) (in error-handler.js:26)[22m[39m
+[31m[1m14:43:38.80 <error> ReferenceError: result is not defined[22m[39m
+[31m[1m    at getCreditCardById (E:\privacy-project\credit-card\server\controllers\credit-card.js:18:13)[22m[39m
+[31m[1m    at <anonymous>[22m[39m
+[31m[1m    at process._tickCallback (internal/process/next_tick.js:188:7) (in error-handler.js:26)[22m[39m
+[31m[1m16:09:15.78 <error> TypeError: Cannot destructure property `user_id` of 'undefined' or 'null'.[22m[39m
+[31m[1m    at getCreditCardById (E:\privacy-project\credit-card\server\controllers\credit-card.js:9:35)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)[22m[39m
+[31m[1m    at next (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)[22m[39m
+[31m[1m    at E:\privacy-project\credit-card\server\node_modules\koa-router\lib\router.js:346:16[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)[22m[39m
+[31m[1m    at E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\lib\router.js:351:31)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at module.exports (E:\privacy-project\credit-card\server\middlewares\error-handler.js:24:11)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at module.exports (E:\privacy-project\credit-card\server\middlewares\response.js:14:9)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at bodyParser (E:\privacy-project\credit-card\server\node_modules\koa-bodyparser\index.js:86:11)[22m[39m
+[31m[1m    at <anonymous>[22m[39m
+[31m[1m    at process._tickCallback (internal/process/next_tick.js:188:7) (in error-handler.js:26)[22m[39m
+[31m[1m17:40:47.34 <error> TypeError: Cannot destructure property `id` of 'undefined' or 'null'.[22m[39m
+[31m[1m    at getCreditCardById (E:\privacy-project\credit-card\server\controllers\credit-card.js:9:29)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)[22m[39m
+[31m[1m    at next (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)[22m[39m
+[31m[1m    at E:\privacy-project\credit-card\server\node_modules\koa-router\lib\router.js:346:16[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)[22m[39m
+[31m[1m    at E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\lib\router.js:351:31)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at module.exports (E:\privacy-project\credit-card\server\middlewares\error-handler.js:24:11)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at module.exports (E:\privacy-project\credit-card\server\middlewares\response.js:14:9)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at bodyParser (E:\privacy-project\credit-card\server\node_modules\koa-bodyparser\index.js:86:11)[22m[39m
+[31m[1m    at <anonymous>[22m[39m
+[31m[1m    at process._tickCallback (internal/process/next_tick.js:188:7) (in error-handler.js:26)[22m[39m
+[31m[1m17:41:41.38 <error> TypeError: Cannot destructure property `id` of 'undefined' or 'null'.[22m[39m
+[31m[1m    at getCreditCardById (E:\privacy-project\credit-card\server\controllers\credit-card.js:9:29)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)[22m[39m
+[31m[1m    at next (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)[22m[39m
+[31m[1m    at E:\privacy-project\credit-card\server\node_modules\koa-router\lib\router.js:346:16[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)[22m[39m
+[31m[1m    at E:\privacy-project\credit-card\server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-router\lib\router.js:351:31)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at module.exports (E:\privacy-project\credit-card\server\middlewares\error-handler.js:24:11)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at module.exports (E:\privacy-project\credit-card\server\middlewares\response.js:14:9)[22m[39m
+[31m[1m    at dispatch (E:\privacy-project\credit-card\server\node_modules\koa-compose\index.js:42:32)[22m[39m
+[31m[1m    at bodyParser (E:\privacy-project\credit-card\server\node_modules\koa-bodyparser\index.js:86:11)[22m[39m
+[31m[1m    at <anonymous>[22m[39m
+[31m[1m    at process._tickCallback (internal/process/next_tick.js:188:7) (in error-handler.js:26)[22m[39m

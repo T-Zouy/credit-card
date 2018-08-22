@@ -1,0 +1,46 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre,
+form, fieldset, input, textarea, p, blockquote, th, td, a {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  -webkit-overflow-scrolling : touch;
+}
+
+input,
+button,
+textarea {
+  outline: none;
+  border: 0;
+  vertical-align: middle;
+  background: #ffffff;
+  font-size: 14px;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+  font-size:14px;
+}
+::-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  font-size:14px;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  font-size:14px;
+}
+::-ms-input-placeholder { /* Internet Explorer 10+ */
+  font-size:14px;
+}
+
+body a {
+  color: #20A0FF;
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body a:hover,
+body a:active,
+body a:focus {
+  color: #20A0FF;
+  font-size: 14px;
+  text-decoration: none;
+  outline: none;
+}
